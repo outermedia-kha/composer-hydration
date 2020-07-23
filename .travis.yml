@@ -7,7 +7,7 @@ language: php
 sudo: false
 
 php:
-  - 5.6
+  - 7.0
 
 matrix:
   fast_finish: true
